@@ -1,7 +1,7 @@
 <html lang="en"><head>
     <meta charset="UTF-8">
     <title></title>
-<style id="system" type="text/css">body{}</style><style id="custom" type="text/css"></style></head>
+<style id="system" type="text/css"></style><style id="custom" type="text/css"></style></head>
 <body marginheight="0"><h1>Task2 校内零食订购平台项目建议书</h1>
 <h2>一、项目简介</h2>
 <p>本网站致力于向广大学生提供一个安全、方便、免费的零食订购平台：
@@ -93,5 +93,5 @@
 </p>
 <h2>九、项目总结</h2>
 <p>校内零食订购平台没有多少，因为很难赢得同学们的信任。但对于我们来说，因为都是本校的同学所以很容易赢得同学们的信任。我们致力于为了学生提供一个安全、方便、免费的平台，我相信通过我们全组的努力，我们一定能构建一个让广大用户满意的网站。
-Edit By <a href="http://mahua.jser.me">MaHua</a></p>
+<a href="http://mahua.jser.me"></a></p>
 </body></html>
